@@ -1,0 +1,23 @@
+{
+  "name": "lytical-lap1-debug-bojin11",
+  "version": "1.0.0",
+  "description": "Welcome to your first debugging assignment! This repo is riddled with bugs and poor practices... we need your help to fix it up. You may add/refactor file structure as you deem appropriate. Please make sure that you **read all the instructions before starting**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --silent",
+    "coverage": "jest --coverage --silent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getfutureproof/lytical-lap1-debug-bojin11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getfutureproof/lytical-lap1-debug-bojin11/issues"
+  },
+  "homepage": "https://github.com/getfutureproof/lytical-lap1-debug-bojin11#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
