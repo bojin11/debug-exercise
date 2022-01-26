@@ -65,4 +65,4 @@ You are going to debug and complete a Random Quotes generator. When you are fini
 - http://localhost:3000/quotes/1 is showing the quote with the id of 1, the id are between 1-15
 - http://localhost:3000/quotes/0 is showing an error message when the id is 0 or bigger than 15
 - http://localhost:3000/quotes/random is generating a random quote.
-- The client side code is when user click on the button it calls http://-localhost:3000/quotes/random and shows a random quote on the page
+- The client side code is when user click on the button it calls http://localhost:3000/quotes/random and shows a random quote on the page
