@@ -13,7 +13,7 @@ describe('index.html', () => {
         test('it has correct text', () => {
             const title = document.querySelector('text');
             expect(title).toBeTruthy();
-            expect(title.textContent).toBe("Let's motivate you")
+            expect(title.textContent).toBe("Motivational Quotes")
         })
     })
 })
